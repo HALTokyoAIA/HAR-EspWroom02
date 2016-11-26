@@ -1,0 +1,5 @@
+Wi-Fi接続設定
+
+・Wi-Fi接続時アクセスポイント名：wroom
+・接続パスワード：robotismini
+
